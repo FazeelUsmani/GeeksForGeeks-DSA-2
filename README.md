@@ -5,7 +5,7 @@ Topics taught in this course are the following:-
 
 1) [Introduction](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/01%20Analysis%20of%20Algorithms) - which includes Analysis of Algorithm, Intro to Asymptotic Notation, Space and Time Complexities.
 2) Mathematics
-3) [Bit Magic (Bit Manipulation)](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/3%20Bit%20Manipulation)
+3) [Bit Magic (Bit Manipulation)](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/03%20Bit%20Manipulation)
 4) [Recursion](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/4%20Recursion)
 5) [Arrays](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/5%20Arrays)
 6) [Searching](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/6%20Searching)
