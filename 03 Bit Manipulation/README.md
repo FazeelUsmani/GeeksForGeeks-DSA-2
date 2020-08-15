@@ -7,11 +7,11 @@ This folder contains the following problems:
 5) [Bit Difference](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/3%20Bit%20Manipulation/3.5%20Bit%20Difference.py)
 6) [Number is sparse or not](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/3%20Bit%20Manipulation/3.6%20Number%20is%20sparse%20or%20not.py)
 7) [Longest consecutive 1's](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/3%20Bit%20Manipulation)
-8) Gray Code
-9) Gray to Binary equivalent
+8) [Binary to Gray Code](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/03%20Bit%20Manipulation/3.08%20binary2gray.cpp)
+9) [Gray to Binary equivalent](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/03%20Bit%20Manipulation/3.09%20gray2binary.cpp)
 10) [Power of 2](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/3%20Bit%20Manipulation/3.10%20Power%20of%20two.cpp)
 11) [Swap all odd and even bits](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/3%20Bit%20Manipulation/3.11%20swap%20even%20and%20odd%20bits.py) 
-12) [Maximum AND Value](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/3%20Bit%20Manipulation/3.12%20Max%20AND%20value.cpp)
+12) [Maximum AND Value](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/03%20Bit%20Manipulation/3.12%20maxANDvalue.cpp)
 
 
 
