@@ -12,6 +12,6 @@ This folder contains all the assignment programs of Recursion
 9) [Power of Numbers](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/04%20Recursion/9%20Power%20of%20numbers.cpp)
 10) [Power Set](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/4%20Recursion/10%20power%20set.cpp)
 11) [Possible values from phone digits](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/4%20Recursion/11%20possible%20words%20from%20phone%20digits.py)
-12) [String Permutations]
+12) [String Permutations](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/04%20Recursion/4.12%20String%20Permutations.py)
 13) [Convert Decimal to binary](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/4%20Recursion/13%20decimal%20to%20binary.py)
 14) [Maximum cuts in a rope](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/4%20Recursion/14%20max%20cuts%20in%20a%20rope.py)
