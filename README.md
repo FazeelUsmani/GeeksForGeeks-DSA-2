@@ -4,13 +4,13 @@ This repository contains all the assignments and practice questions solved durin
 Topics taught in this course are the following:-
 
 1) [Introduction](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/01%20Analysis%20of%20Algorithms) - which includes Analysis of Algorithm, Intro to Asymptotic Notation, Space and Time Complexities.
-2) [Mathematics(https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/02%20Mathematical%20Algortithms)
+2) [Mathematics](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/02%20Mathematical%20Algortithms)
 3) [Bit Magic (Bit Manipulation)](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/03%20Bit%20Manipulation)
 4) [Recursion](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/4%20Recursion)
 5) [Arrays](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/5%20Arrays)
 6) [Searching](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/6%20Searching)
 7) [Sorting](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/07%20Sorting)
-8) Matrix
+8) [Matrix](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/08%20Matrix)
 9) Hashing
 10) [Strings](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/10%20Strings)
 11) [Linked List](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/11%20Linked%20List)
