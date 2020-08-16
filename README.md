@@ -9,7 +9,7 @@ Topics taught in this course are the following:-
 4) [Recursion](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/4%20Recursion)
 5) [Arrays](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/5%20Arrays)
 6) [Searching](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/6%20Searching)
-7) Sorting
+7) [Sorting](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/07%20Sorting)
 8) Matrix
 9) Hashing
 10) [Strings](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/10%20Strings)
