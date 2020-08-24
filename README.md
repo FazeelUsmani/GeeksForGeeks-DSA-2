@@ -22,7 +22,7 @@ Topics taught in this course are the following:-
 17) Graph
 18) Greedy
 19) Backtracking
-20) Dynamic Programming
+20) [Dynamic Programming](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/20%20Dynamic%20Programming)
 
 **Tip:** I use Google's C++ Style for coding. You can also pick any style and start coding so that your code can be easily interpreted by others. 
 Here's the link: https://google.github.io/styleguide/cppguide.html
