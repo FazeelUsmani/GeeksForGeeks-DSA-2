@@ -28,5 +28,4 @@ Topics taught in this course are the following:-
 Here's the link: https://google.github.io/styleguide/cppguide.html
 
 
-
 **I recommend taking this course as it contains extraordinary content which is perfectly instructed by Sandeep Jain (ex-DE Shaw employee and ex-JIIT Noida assistant professor) also the founder of GeeksForGeeks to impart programming education at very low cost. I purchased this course in ₹ 2,000/- and really worth it.**
