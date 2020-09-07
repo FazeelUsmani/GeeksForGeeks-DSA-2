@@ -20,7 +20,7 @@ Topics taught in this course are the following:-
 15) Binary Search Tree
 16) [Heap](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/16%20Heaps)
 17) Graph
-18) Greedy
+18) [Greedy](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/18%20Greedy)
 19) Backtracking
 20) [Dynamic Programming](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/20%20Dynamic%20Programming)
 24) [Disjoint Set](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/24%20Disjoint%20Set)
