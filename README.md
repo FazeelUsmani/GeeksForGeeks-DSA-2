@@ -18,7 +18,7 @@ Topics taught in this course are the following:-
 13) Queue
 14) [Tree](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/14%20Trees)
 15) Binary Search Tree
-16) Heap
+16) [Heap](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/16%20Heaps)
 17) Graph
 18) Greedy
 19) Backtracking
