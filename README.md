@@ -11,7 +11,7 @@ Topics taught in this course are the following:-
 6) [Searching](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/6%20Searching)
 7) [Sorting](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/07%20Sorting)
 8) [Matrix](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/08%20Matrix)
-9) Hashing
+9) [Hashing](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/09%20Hashing)
 10) [Strings](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/10%20Strings)
 11) [Linked List](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/11%20Linked%20List)
 12) [Stack](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/12%20Stacks)
