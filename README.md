@@ -15,7 +15,7 @@ Topics taught in this course are the following:-
 10) [Strings](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/10%20Strings)
 11) [Linked List](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/11%20Linked%20List)
 12) [Stack](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/12%20Stacks)
-13) Queue
+13) [Queue](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/13%20Queue)
 14) [Tree](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/14%20Trees)
 15) Binary Search Tree
 16) [Heap](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/16%20Heaps)
