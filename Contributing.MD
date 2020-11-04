@@ -30,3 +30,9 @@ https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2.git
 2) After assigning, make your changes and raise a PR
 
 3) __PRs__ will be merged after a review. Meanwhile, you can look out for other [issues](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/issues)
+
+
+
+# PR Format:
+
+[PROBLEM_NUMBER] [TOPIC]/[PROBLEM_NAME] 
