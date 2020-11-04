@@ -25,6 +25,8 @@ Topics taught in this course are the following:-
 20) [Dynamic Programming](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/20%20Dynamic%20Programming)
 24) [Disjoint Set](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/24%20Disjoint%20Set)
 
+For contributing, please read [Contributing.md](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/Contributing.MD) 
+
 **Tip:** I use Google's C++ Style for coding. You can also pick any style and start coding so that your code can be easily interpreted by others. 
 Here's the link: https://google.github.io/styleguide/cppguide.html
 
