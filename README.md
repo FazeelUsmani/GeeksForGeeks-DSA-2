@@ -25,7 +25,7 @@ Topics taught in this course are the following:-
 20) [Dynamic Programming](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/20%20Dynamic%20Programming)
 24) [Disjoint Set](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/tree/master/24%20Disjoint%20Set)
 
-To visualize data structures use this [website](https://visualgo.net/en)
+To visualize data structures use this [VisuAlgo](https://visualgo.net/en)
 
 For contributing, please read [Contributing.md](https://github.com/FazeelUsmani/GeeksForGeeks-DSA-2/blob/master/Contributing.MD) 
 
